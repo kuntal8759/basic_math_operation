@@ -1,20 +1,20 @@
-# Program make a simple calculator
+# Basic Math Operations
 
-# This function adds two numbers 
-def add(x, y):
-   return x + y
+# Addition
+def add(a, b):
+   return a + b
 
-# This function subtracts two numbers 
-def subtract(x, y):
-   return x - y
+# Subtraction
+def subtract(a, b):
+   return a - b
 
-# This function multiplies two numbers
-def multiply(x, y):
-   return x * y
+# Multiplication
+def multiply(a, b):
+   return a * b
 
-# This function divides two numbers
-def divide(x, y):
-   return x / y
+# Division
+def divide(a, b):
+   return a / b
 
 print("Select operation.")
 print("1.Add")
